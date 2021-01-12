@@ -60,6 +60,9 @@
 #elif defined(TARGET_LPC546XX)
 #include "NXP/LPC546XX/flash_config.h"
 
+#elif defined(TARGET_CB_LPC54606)
+#include "NXP/CB_LPC54606/flash_config.h"
+
 #elif(  defined(TARGET_CY8CKIT_062_BLE) ||          \
         defined(TARGET_CY8CKIT_062_WIFI_BT) ||      \
         defined(TARGET_CY8CKIT_062S2_43012) ||      \

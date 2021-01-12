@@ -132,6 +132,12 @@
       "S6E1A12B0A"
     ]
   },
+  "CB_LPC54606": {
+    "name": "CB_LPC54606",
+    "mounted_devices": [
+      "LPC54606J512"
+    ]
+  },
   "CMSIS_RTOS_Tutorial": {
     "name": "CMSIS_RTOS_Tutorial",
     "mounted_devices": [

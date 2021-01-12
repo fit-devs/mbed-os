@@ -2054,6 +2054,13 @@
         "device_has_remove": ["QSPI"],
         "release_versions": ["2", "5"]
     },
+	"CB_LPC54606": {
+        "inherits": ["MCU_LPC546XX"],
+        "detect_code": ["F170"],
+        "release_versions": ["5"],
+        "device_name": "LPC54606J512BD100",
+        "components_add": ["QSPIF"]
+    },
     "LPC55S69": {
         "public": false,
         "inherits": ["Target"],

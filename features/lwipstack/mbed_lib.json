@@ -195,6 +195,9 @@
         "LPC546XX": {
             "mem-size": 36496
         },
+		"CB_LPC54606": {
+            "mem-size": 36496
+        },
         "EFM32GG11_STK3701": {
             "mem-size": 36560
         },
